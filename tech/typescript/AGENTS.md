@@ -13,6 +13,11 @@ This file defines guidelines specific to TypeScript projects.
 - Prefer const over let, avoid var
 - Use arrow functions for callbacks
 - Enable and fix all linting errors
+- Use **2 spaces** for indentation.
+- Use **single quotes** for strings.
+- Always include semicolons.
+- Use trailing commas in multi-line structures.
+- Maximum line length: **120 characters**.
 
 ## Naming Conventions
 - PascalCase for classes, interfaces, types, enums

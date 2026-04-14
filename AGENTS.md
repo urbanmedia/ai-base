@@ -7,6 +7,8 @@ This file defines universal guidelines for all AI coding agents used across the 
 - Plan first
 
 ### Code Quality
+- Write clean, self-documenting code. Prefer clarity over cleverness.
+- Keep components and functions small and focused (ideally < 100 lines).
 - Follow existing code conventions and patterns in each repository
 - Maintain consistency with the surrounding codebase
 - Write clean, readable, and maintainable code
